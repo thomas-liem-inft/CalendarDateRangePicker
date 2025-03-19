@@ -266,6 +266,6 @@ class DateRangeCalendarView : LinearLayout, DateRangeCalendarViewApi {
     }
 
     companion object {
-        private const val TOTAL_ALLOWED_MONTHS = 30
+        private const val TOTAL_ALLOWED_MONTHS = 120
     }
 }
